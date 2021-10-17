@@ -3,12 +3,12 @@
     "title": "World Average GDP and Happiness from 2016 to 2019",
     "height": 600,
     "width":{"step":95},
+    "background":"#e2e2e2",
     "data":{"url": "processed-data/combined.csv"},
     "transform": [
         {"calculate": "datum.Category","as": "Happiness and GDP"}
     ],
-
-    "mark":{"type": "bar"},
+    "mark": "bar",
     "encoding": {
         "column": {
             "title":"Years",
@@ -30,6 +30,13 @@
             {"field":"Happiness and GDP","type": "nominal","title":"Category:"},
             {"field": "Value", "type": "quantitative", "title":"Score"}
         ]  
+    },
+    "config": {
+        "title": {
+          "frame":"bounds",
+          "font": "Open Sans",
+          "fontSize": 16,
+          "fontWeight": 700
+        }
     } 
-
 }

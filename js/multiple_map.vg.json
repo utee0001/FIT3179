@@ -33,7 +33,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "processed-data/modified_2019.csv"
+          "url": "data/2019.csv"
         },
         "key": "Country",
         "fields": ["Score","GDP per capita"]

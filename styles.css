@@ -17,6 +17,10 @@
   border: 5px solid rgb(180, 178, 178);
   background-color: rgb(226,226,226);
 }
+#bar{
+  border: 5px solid rgb(180, 178, 178);
+  background-color: rgb(226,226,226);
+}
   h1{
     font-weight: 800;
     font-family: 'Source Sans Pro', sans-serif;
@@ -36,6 +40,7 @@
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
   }
+
   .small-font{
       font-size: 14px;
   }

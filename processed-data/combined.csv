@@ -1,160 +1,4 @@
 Country,Value,Year,Category
-Somalia,4.668,2019,Happiness
-Central African Republic,3.083,2019,Happiness
-Burundi,3.775,2019,Happiness
-Liberia,3.975,2019,Happiness
-Congo (Kinshasa),4.418,2019,Happiness
-Niger,4.628,2019,Happiness
-Malawi,3.41,2019,Happiness
-Mozambique,4.466,2019,Happiness
-Sierra Leone,4.374,2019,Happiness
-Comoros,3.973,2019,Happiness
-Madagascar,3.933,2019,Happiness
-Togo,4.085,2019,Happiness
-Yemen,3.38,2019,Happiness
-South Sudan,2.853,2019,Happiness
-Gambia,4.516,2019,Happiness
-Haiti,3.597,2019,Happiness
-Burkina Faso,4.587,2019,Happiness
-Uganda,4.189,2019,Happiness
-Ethiopia,4.286,2019,Happiness
-Chad,4.35,2019,Happiness
-Afghanistan,3.203,2019,Happiness
-Rwanda,3.334,2019,Happiness
-Zimbabwe,3.663,2019,Happiness
-Guinea,4.534,2019,Happiness
-Mali,4.39,2019,Happiness
-Benin,4.883,2019,Happiness
-Nepal,4.913,2019,Happiness
-Senegal,4.681,2019,Happiness
-Tanzania,3.231,2019,Happiness
-Lesotho,3.802,2019,Happiness
-Tajikistan,5.467,2019,Happiness
-Kenya,4.509,2019,Happiness
-Cameroon,5.044,2019,Happiness
-Kyrgyzstan,5.261,2019,Happiness
-Bangladesh,4.456,2019,Happiness
-Ivory Coast,4.944,2019,Happiness
-Mauritania,4.49,2019,Happiness
-Cambodia,4.7,2019,Happiness
-Zambia,4.107,2019,Happiness
-Ghana,4.996,2019,Happiness
-Syria,3.462,2019,Happiness
-Honduras,5.86,2019,Happiness
-Palestinian Territories,4.696,2019,Happiness
-Congo (Brazzaville),4.812,2019,Happiness
-Pakistan,5.653,2019,Happiness
-Moldova,5.529,2019,Happiness
-Nicaragua,6.105,2019,Happiness
-Nigeria,5.265,2019,Happiness
-Myanmar,4.36,2019,Happiness
-Vietnam,5.175,2019,Happiness
-Uzbekistan,6.174,2019,Happiness
-India,4.015,2019,Happiness
-Laos,4.796,2019,Happiness
-Bolivia,5.779,2019,Happiness
-El Salvador,6.253,2019,Happiness
-Guatemala,6.436,2019,Happiness
-Morocco,5.208,2019,Happiness
-Philippines,5.631,2019,Happiness
-Swaziland,4.212,2019,Happiness
-Bhutan,5.082,2019,Happiness
-Ukraine,4.332,2019,Happiness
-Jamaica,5.89,2019,Happiness
-Jordan,4.906,2019,Happiness
-Armenia,4.559,2019,Happiness
-Paraguay,5.743,2019,Happiness
-Namibia,4.639,2019,Happiness
-Kosovo,6.1,2019,Happiness
-Georgia,4.519,2019,Happiness
-Ecuador,6.028,2019,Happiness
-Egypt,4.166,2019,Happiness
-Tunisia,4.461,2019,Happiness
-Indonesia,5.192,2019,Happiness
-Bosnia and Herzegovina,5.386,2019,Happiness
-Albania,4.719,2019,Happiness
-Mongolia,5.285,2019,Happiness
-Sri Lanka,4.366,2019,Happiness
-Peru,5.697,2019,Happiness
-South Africa,4.722,2019,Happiness
-Venezuela,4.707,2019,Happiness
-North Macedonia,5.274,2019,Happiness
-Colombia,6.125,2019,Happiness
-Lebanon,5.197,2019,Happiness
-Algeria,5.211,2019,Happiness
-Brazil,6.3,2019,Happiness
-Serbia,5.603,2019,Happiness
-Dominican Republic,5.425,2019,Happiness
-China,5.191,2019,Happiness
-Costa Rica,7.167,2019,Happiness
-Botswana,3.488,2019,Happiness
-Azerbaijan,5.208,2019,Happiness
-Iraq,4.437,2019,Happiness
-Libya,5.525,2019,Happiness
-Thailand,6.008,2019,Happiness
-Montenegro,5.523,2019,Happiness
-Turkmenistan,5.247,2019,Happiness
-Gabon,4.799,2019,Happiness
-Belarus,5.323,2019,Happiness
-Mexico,6.595,2019,Happiness
-Argentina,6.086,2019,Happiness
-Bulgaria,5.011,2019,Happiness
-Iran,4.548,2019,Happiness
-Mauritius,5.888,2019,Happiness
-Uruguay,6.293,2019,Happiness
-Panama,6.321,2019,Happiness
-Croatia,5.432,2019,Happiness
-Chile,6.444,2019,Happiness
-Romania,6.07,2019,Happiness
-Kazakhstan,5.809,2019,Happiness
-Greece,5.287,2019,Happiness
-Russia,5.648,2019,Happiness
-Turkey,5.373,2019,Happiness
-Latvia,5.94,2019,Happiness
-Hungary,5.758,2019,Happiness
-Poland,6.182,2019,Happiness
-Portugal,5.693,2019,Happiness
-Malaysia,5.339,2019,Happiness
-Trinidad & Tobago,6.192,2019,Happiness
-Estonia,5.893,2019,Happiness
-Lithuania,6.149,2019,Happiness
-Slovakia,6.198,2019,Happiness
-Slovenia,6.118,2019,Happiness
-Cyprus,6.046,2019,Happiness
-Northern Cyprus,5.718,2019,Happiness
-Czech Republic,6.852,2019,Happiness
-Israel,7.139,2019,Happiness
-Spain,6.354,2019,Happiness
-Italy,6.223,2019,Happiness
-Malta,6.726,2019,Happiness
-South Korea,5.895,2019,Happiness
-New Zealand,7.307,2019,Happiness
-France,6.592,2019,Happiness
-Japan,5.886,2019,Happiness
-United Kingdom,7.054,2019,Happiness
-Finland,7.769,2019,Happiness
-Belgium,6.923,2019,Happiness
-Bahrain,6.199,2019,Happiness
-Canada,7.278,2019,Happiness
-Taiwan,6.446,2019,Happiness
-Australia,7.228,2019,Happiness
-Germany,6.985,2019,Happiness
-Austria,7.246,2019,Happiness
-Iceland,7.494,2019,Happiness
-Denmark,7.6,2019,Happiness
-Sweden,7.343,2019,Happiness
-Netherlands,7.488,2019,Happiness
-Saudi Arabia,6.375,2019,Happiness
-United States of America,6.892,2019,Happiness
-Hong Kong,5.43,2019,Happiness
-Switzerland,7.48,2019,Happiness
-Norway,7.554,2019,Happiness
-Ireland,7.021,2019,Happiness
-Kuwait,6.021,2019,Happiness
-United Arab Emirates,6.825,2019,Happiness
-Singapore,6.262,2019,Happiness
-Luxembourg,7.09,2019,Happiness
-Qatar,6.374,2019,Happiness
 Somalia,0,2019,GDP
 Central African Republic,0.026,2019,GDP
 Burundi,0.046,2019,GDP
@@ -311,162 +155,6 @@ United Arab Emirates,1.503,2019,GDP
 Singapore,1.572,2019,GDP
 Luxembourg,1.609,2019,GDP
 Qatar,1.684,2019,GDP
-Finland,7.632,2018,Happiness
-Norway,7.594,2018,Happiness
-Denmark,7.555,2018,Happiness
-Iceland,7.495,2018,Happiness
-Switzerland,7.487,2018,Happiness
-Netherlands,7.441,2018,Happiness
-Canada,7.328,2018,Happiness
-New Zealand,7.324,2018,Happiness
-Sweden,7.314,2018,Happiness
-Australia,7.272,2018,Happiness
-United Kingdom,7.19,2018,Happiness
-Austria,7.139,2018,Happiness
-Costa Rica,7.072,2018,Happiness
-Ireland,6.977,2018,Happiness
-Germany,6.965,2018,Happiness
-Belgium,6.927,2018,Happiness
-Luxembourg,6.91,2018,Happiness
-United States of America,6.886,2018,Happiness
-Israel,6.814,2018,Happiness
-United Arab Emirates,6.774,2018,Happiness
-Czech Republic,6.711,2018,Happiness
-Malta,6.627,2018,Happiness
-France,6.489,2018,Happiness
-Mexico,6.488,2018,Happiness
-Chile,6.476,2018,Happiness
-Taiwan,6.441,2018,Happiness
-Panama,6.43,2018,Happiness
-Brazil,6.419,2018,Happiness
-Argentina,6.388,2018,Happiness
-Guatemala,6.382,2018,Happiness
-Uruguay,6.379,2018,Happiness
-Qatar,6.374,2018,Happiness
-Saudi Arabia,6.371,2018,Happiness
-Singapore,6.343,2018,Happiness
-Malaysia,6.322,2018,Happiness
-Spain,6.31,2018,Happiness
-Colombia,6.26,2018,Happiness
-Trinidad & Tobago,6.192,2018,Happiness
-Slovakia,6.173,2018,Happiness
-El Salvador,6.167,2018,Happiness
-Nicaragua,6.141,2018,Happiness
-Poland,6.123,2018,Happiness
-Bahrain,6.105,2018,Happiness
-Uzbekistan,6.096,2018,Happiness
-Kuwait,6.083,2018,Happiness
-Thailand,6.072,2018,Happiness
-Italy,6,2018,Happiness
-Ecuador,5.973,2018,Happiness
-Belize,5.956,2018,Happiness
-Lithuania,5.952,2018,Happiness
-Slovenia,5.948,2018,Happiness
-Romania,5.945,2018,Happiness
-Latvia,5.933,2018,Happiness
-Japan,5.915,2018,Happiness
-Mauritius,5.891,2018,Happiness
-Jamaica,5.89,2018,Happiness
-South Korea,5.875,2018,Happiness
-Northern Cyprus,5.835,2018,Happiness
-Russia,5.81,2018,Happiness
-Kazakhstan,5.79,2018,Happiness
-Cyprus,5.762,2018,Happiness
-Bolivia,5.752,2018,Happiness
-Estonia,5.739,2018,Happiness
-Paraguay,5.681,2018,Happiness
-Peru,5.663,2018,Happiness
-Kosovo,5.662,2018,Happiness
-Moldova,5.64,2018,Happiness
-Turkmenistan,5.636,2018,Happiness
-Hungary,5.62,2018,Happiness
-Libya,5.566,2018,Happiness
-Philippines,5.524,2018,Happiness
-Honduras,5.504,2018,Happiness
-Belarus,5.483,2018,Happiness
-Turkey,5.483,2018,Happiness
-Pakistan,5.472,2018,Happiness
-Hong Kong,5.43,2018,Happiness
-Portugal,5.41,2018,Happiness
-Serbia,5.398,2018,Happiness
-Greece,5.358,2018,Happiness
-Lebanon,5.358,2018,Happiness
-Montenegro,5.347,2018,Happiness
-Croatia,5.321,2018,Happiness
-Dominican Republic,5.302,2018,Happiness
-Algeria,5.295,2018,Happiness
-Morocco,5.254,2018,Happiness
-China,5.246,2018,Happiness
-Azerbaijan,5.201,2018,Happiness
-Tajikistan,5.199,2018,Happiness
-Macedonia,5.185,2018,Happiness
-Jordan,5.161,2018,Happiness
-Nigeria,5.155,2018,Happiness
-Kyrgyzstan,5.131,2018,Happiness
-Bosnia and Herzegovina,5.129,2018,Happiness
-Mongolia,5.125,2018,Happiness
-Vietnam,5.103,2018,Happiness
-Indonesia,5.093,2018,Happiness
-Bhutan,5.082,2018,Happiness
-Somalia,4.982,2018,Happiness
-Cameroon,4.975,2018,Happiness
-Bulgaria,4.933,2018,Happiness
-Nepal,4.88,2018,Happiness
-Venezuela,4.806,2018,Happiness
-Gabon,4.758,2018,Happiness
-Palestinian Territories,4.743,2018,Happiness
-South Africa,4.724,2018,Happiness
-Iran,4.707,2018,Happiness
-Ivory Coast,4.671,2018,Happiness
-Ghana,4.657,2018,Happiness
-Senegal,4.631,2018,Happiness
-Laos,4.623,2018,Happiness
-Tunisia,4.592,2018,Happiness
-Albania,4.586,2018,Happiness
-Sierra Leone,4.571,2018,Happiness
-Congo (Brazzaville),4.559,2018,Happiness
-Bangladesh,4.5,2018,Happiness
-Sri Lanka,4.471,2018,Happiness
-Iraq,4.456,2018,Happiness
-Mali,4.447,2018,Happiness
-Namibia,4.441,2018,Happiness
-Cambodia,4.433,2018,Happiness
-Burkina Faso,4.424,2018,Happiness
-Egypt,4.419,2018,Happiness
-Mozambique,4.417,2018,Happiness
-Kenya,4.41,2018,Happiness
-Zambia,4.377,2018,Happiness
-Mauritania,4.356,2018,Happiness
-Ethiopia,4.35,2018,Happiness
-Georgia,4.34,2018,Happiness
-Armenia,4.321,2018,Happiness
-Myanmar,4.308,2018,Happiness
-Chad,4.301,2018,Happiness
-Congo (Kinshasa),4.245,2018,Happiness
-India,4.19,2018,Happiness
-Niger,4.166,2018,Happiness
-Uganda,4.161,2018,Happiness
-Benin,4.141,2018,Happiness
-Sudan,4.139,2018,Happiness
-Ukraine,4.103,2018,Happiness
-Togo,3.999,2018,Happiness
-Guinea,3.964,2018,Happiness
-Lesotho,3.808,2018,Happiness
-Angola,3.795,2018,Happiness
-Madagascar,3.774,2018,Happiness
-Zimbabwe,3.692,2018,Happiness
-Afghanistan,3.632,2018,Happiness
-Botswana,3.59,2018,Happiness
-Malawi,3.587,2018,Happiness
-Haiti,3.582,2018,Happiness
-Liberia,3.495,2018,Happiness
-Syria,3.462,2018,Happiness
-Rwanda,3.408,2018,Happiness
-Yemen,3.355,2018,Happiness
-Tanzania,3.303,2018,Happiness
-South Sudan,3.254,2018,Happiness
-Central African Republic,3.083,2018,Happiness
-Burundi,2.905,2018,Happiness
 Finland,1.305,2018,GDP
 Norway,1.456,2018,GDP
 Denmark,1.351,2018,GDP
@@ -623,161 +311,6 @@ Tanzania,0.455,2018,GDP
 South Sudan,0.337,2018,GDP
 Central African Republic,0.024,2018,GDP
 Burundi,0.091,2018,GDP
-Norway,7.537000179,2017,Happiness
-Denmark,7.521999836,2017,Happiness
-Iceland,7.504000187,2017,Happiness
-Switzerland,7.493999958,2017,Happiness
-Finland,7.468999863,2017,Happiness
-Netherlands,7.376999855,2017,Happiness
-Canada,7.315999985,2017,Happiness
-New Zealand,7.31400013,2017,Happiness
-Sweden,7.28399992,2017,Happiness
-Australia,7.28399992,2017,Happiness
-Israel,7.212999821,2017,Happiness
-Costa Rica,7.078999996,2017,Happiness
-Austria,7.006000042,2017,Happiness
-United States,6.993000031,2017,Happiness
-Ireland,6.977000237,2017,Happiness
-Germany,6.951000214,2017,Happiness
-Belgium,6.890999794,2017,Happiness
-Luxembourg,6.862999916,2017,Happiness
-United Kingdom,6.714000225,2017,Happiness
-Chile,6.65199995,2017,Happiness
-United Arab Emirates,6.647999763,2017,Happiness
-Brazil,6.635000229,2017,Happiness
-Czech Republic,6.609000206,2017,Happiness
-Argentina,6.598999977,2017,Happiness
-Mexico,6.578000069,2017,Happiness
-Singapore,6.572000027,2017,Happiness
-Malta,6.52699995,2017,Happiness
-Uruguay,6.453999996,2017,Happiness
-Guatemala,6.453999996,2017,Happiness
-Panama,6.452000141,2017,Happiness
-France,6.441999912,2017,Happiness
-Thailand,6.423999786,2017,Happiness
-Taiwan Province of China,6.421999931,2017,Happiness
-Spain,6.402999878,2017,Happiness
-Qatar,6.375,2017,Happiness
-Colombia,6.356999874,2017,Happiness
-Saudi Arabia,6.343999863,2017,Happiness
-Trinidad and Tobago,6.168000221,2017,Happiness
-Kuwait,6.105000019,2017,Happiness
-Slovakia,6.09800005,2017,Happiness
-Bahrain,6.086999893,2017,Happiness
-Malaysia,6.084000111,2017,Happiness
-Nicaragua,6.071000099,2017,Happiness
-Ecuador,6.007999897,2017,Happiness
-El Salvador,6.002999783,2017,Happiness
-Poland,5.97300005,2017,Happiness
-Uzbekistan,5.971000195,2017,Happiness
-Italy,5.964000225,2017,Happiness
-Russia,5.962999821,2017,Happiness
-Belize,5.955999851,2017,Happiness
-Japan,5.920000076,2017,Happiness
-Lithuania,5.90199995,2017,Happiness
-Algeria,5.872000217,2017,Happiness
-Latvia,5.849999905,2017,Happiness
-South Korea,5.837999821,2017,Happiness
-Moldova,5.837999821,2017,Happiness
-Romania,5.824999809,2017,Happiness
-Bolivia,5.822999954,2017,Happiness
-Turkmenistan,5.822000027,2017,Happiness
-Kazakhstan,5.818999767,2017,Happiness
-North Cyprus,5.809999943,2017,Happiness
-Slovenia,5.757999897,2017,Happiness
-Peru,5.715000153,2017,Happiness
-Mauritius,5.629000187,2017,Happiness
-Cyprus,5.620999813,2017,Happiness
-Estonia,5.611000061,2017,Happiness
-Belarus,5.568999767,2017,Happiness
-Libya,5.525000095,2017,Happiness
-Turkey,5.5,2017,Happiness
-Paraguay,5.493000031,2017,Happiness
-"Hong Kong S.A.R., China",5.472000122,2017,Happiness
-Philippines,5.429999828,2017,Happiness
-Serbia,5.394999981,2017,Happiness
-Jordan,5.335999966,2017,Happiness
-Hungary,5.323999882,2017,Happiness
-Jamaica,5.31099987,2017,Happiness
-Croatia,5.293000221,2017,Happiness
-Kosovo,5.278999805,2017,Happiness
-China,5.272999763,2017,Happiness
-Pakistan,5.269000053,2017,Happiness
-Indonesia,5.262000084,2017,Happiness
-Venezuela,5.25,2017,Happiness
-Montenegro,5.236999989,2017,Happiness
-Morocco,5.235000134,2017,Happiness
-Azerbaijan,5.234000206,2017,Happiness
-Dominican Republic,5.230000019,2017,Happiness
-Greece,5.227000237,2017,Happiness
-Lebanon,5.224999905,2017,Happiness
-Portugal,5.195000172,2017,Happiness
-Bosnia and Herzegovina,5.18200016,2017,Happiness
-Honduras,5.181000233,2017,Happiness
-Macedonia,5.175000191,2017,Happiness
-Somalia,5.151000023,2017,Happiness
-Vietnam,5.073999882,2017,Happiness
-Nigeria,5.073999882,2017,Happiness
-Tajikistan,5.040999889,2017,Happiness
-Bhutan,5.011000156,2017,Happiness
-Kyrgyzstan,5.004000187,2017,Happiness
-Nepal,4.961999893,2017,Happiness
-Mongolia,4.954999924,2017,Happiness
-South Africa,4.828999996,2017,Happiness
-Tunisia,4.804999828,2017,Happiness
-Palestinian Territories,4.775000095,2017,Happiness
-Egypt,4.735000134,2017,Happiness
-Bulgaria,4.714000225,2017,Happiness
-Sierra Leone,4.709000111,2017,Happiness
-Cameroon,4.695000172,2017,Happiness
-Iran,4.691999912,2017,Happiness
-Albania,4.644000053,2017,Happiness
-Bangladesh,4.607999802,2017,Happiness
-Namibia,4.573999882,2017,Happiness
-Kenya,4.552999973,2017,Happiness
-Mozambique,4.550000191,2017,Happiness
-Myanmar,4.545000076,2017,Happiness
-Senegal,4.534999847,2017,Happiness
-Zambia,4.513999939,2017,Happiness
-Iraq,4.497000217,2017,Happiness
-Gabon,4.465000153,2017,Happiness
-Ethiopia,4.460000038,2017,Happiness
-Sri Lanka,4.440000057,2017,Happiness
-Armenia,4.375999928,2017,Happiness
-India,4.315000057,2017,Happiness
-Mauritania,4.291999817,2017,Happiness
-Congo (Brazzaville),4.290999889,2017,Happiness
-Georgia,4.285999775,2017,Happiness
-Congo (Kinshasa),4.28000021,2017,Happiness
-Mali,4.190000057,2017,Happiness
-Ivory Coast,4.179999828,2017,Happiness
-Cambodia,4.168000221,2017,Happiness
-Sudan,4.138999939,2017,Happiness
-Ghana,4.119999886,2017,Happiness
-Ukraine,4.096000195,2017,Happiness
-Uganda,4.080999851,2017,Happiness
-Burkina Faso,4.032000065,2017,Happiness
-Niger,4.027999878,2017,Happiness
-Malawi,3.970000029,2017,Happiness
-Chad,3.936000109,2017,Happiness
-Zimbabwe,3.875,2017,Happiness
-Lesotho,3.808000088,2017,Happiness
-Angola,3.795000076,2017,Happiness
-Afghanistan,3.79399991,2017,Happiness
-Botswana,3.766000032,2017,Happiness
-Benin,3.657000065,2017,Happiness
-Madagascar,3.644000053,2017,Happiness
-Haiti,3.602999926,2017,Happiness
-Yemen,3.592999935,2017,Happiness
-South Sudan,3.59100008,2017,Happiness
-Liberia,3.532999992,2017,Happiness
-Guinea,3.506999969,2017,Happiness
-Togo,3.494999886,2017,Happiness
-Rwanda,3.470999956,2017,Happiness
-Syria,3.461999893,2017,Happiness
-Tanzania,3.348999977,2017,Happiness
-Burundi,2.904999971,2017,Happiness
-Central African Republic,2.693000078,2017,Happiness
 Norway,1.616463184,2017,GDP
 Denmark,1.482383013,2017,GDP
 Iceland,1.48063302,2017,GDP
@@ -933,163 +466,6 @@ Syria,0.777153134,2017,GDP
 Tanzania,0.511135876,2017,GDP
 Burundi,0.091622569,2017,GDP
 Central African Republic,0,2017,GDP
-Denmark,7.526,2016,Happiness
-Switzerland,7.509,2016,Happiness
-Iceland,7.501,2016,Happiness
-Norway,7.498,2016,Happiness
-Finland,7.413,2016,Happiness
-Canada,7.404,2016,Happiness
-Netherlands,7.339,2016,Happiness
-New Zealand,7.334,2016,Happiness
-Australia,7.313,2016,Happiness
-Sweden,7.291,2016,Happiness
-Israel,7.267,2016,Happiness
-Austria,7.119,2016,Happiness
-United States,7.104,2016,Happiness
-Costa Rica,7.087,2016,Happiness
-Puerto Rico,7.039,2016,Happiness
-Germany,6.994,2016,Happiness
-Brazil,6.952,2016,Happiness
-Belgium,6.929,2016,Happiness
-Ireland,6.907,2016,Happiness
-Luxembourg,6.871,2016,Happiness
-Mexico,6.778,2016,Happiness
-Singapore,6.739,2016,Happiness
-United Kingdom,6.725,2016,Happiness
-Chile,6.705,2016,Happiness
-Panama,6.701,2016,Happiness
-Argentina,6.65,2016,Happiness
-Czech Republic,6.596,2016,Happiness
-United Arab Emirates,6.573,2016,Happiness
-Uruguay,6.545,2016,Happiness
-Malta,6.488,2016,Happiness
-Colombia,6.481,2016,Happiness
-France,6.478,2016,Happiness
-Thailand,6.474,2016,Happiness
-Saudi Arabia,6.379,2016,Happiness
-Taiwan,6.379,2016,Happiness
-Qatar,6.375,2016,Happiness
-Spain,6.361,2016,Happiness
-Algeria,6.355,2016,Happiness
-Guatemala,6.324,2016,Happiness
-Suriname,6.269,2016,Happiness
-Kuwait,6.239,2016,Happiness
-Bahrain,6.218,2016,Happiness
-Trinidad and Tobago,6.168,2016,Happiness
-Venezuela,6.084,2016,Happiness
-Slovakia,6.078,2016,Happiness
-El Salvador,6.068,2016,Happiness
-Malaysia,6.005,2016,Happiness
-Nicaragua,5.992,2016,Happiness
-Uzbekistan,5.987,2016,Happiness
-Italy,5.977,2016,Happiness
-Ecuador,5.976,2016,Happiness
-Belize,5.956,2016,Happiness
-Japan,5.921,2016,Happiness
-Kazakhstan,5.919,2016,Happiness
-Moldova,5.897,2016,Happiness
-Russia,5.856,2016,Happiness
-Poland,5.835,2016,Happiness
-South Korea,5.835,2016,Happiness
-Bolivia,5.822,2016,Happiness
-Lithuania,5.813,2016,Happiness
-Belarus,5.802,2016,Happiness
-North Cyprus,5.771,2016,Happiness
-Slovenia,5.768,2016,Happiness
-Peru,5.743,2016,Happiness
-Turkmenistan,5.658,2016,Happiness
-Mauritius,5.648,2016,Happiness
-Libya,5.615,2016,Happiness
-Latvia,5.56,2016,Happiness
-Cyprus,5.546,2016,Happiness
-Paraguay,5.538,2016,Happiness
-Romania,5.528,2016,Happiness
-Estonia,5.517,2016,Happiness
-Jamaica,5.51,2016,Happiness
-Croatia,5.488,2016,Happiness
-Hong Kong,5.458,2016,Happiness
-Somalia,5.44,2016,Happiness
-Kosovo,5.401,2016,Happiness
-Turkey,5.389,2016,Happiness
-Indonesia,5.314,2016,Happiness
-Jordan,5.303,2016,Happiness
-Azerbaijan,5.291,2016,Happiness
-Philippines,5.279,2016,Happiness
-China,5.245,2016,Happiness
-Bhutan,5.196,2016,Happiness
-Kyrgyzstan,5.185,2016,Happiness
-Serbia,5.177,2016,Happiness
-Bosnia and Herzegovina,5.163,2016,Happiness
-Montenegro,5.161,2016,Happiness
-Dominican Republic,5.155,2016,Happiness
-Morocco,5.151,2016,Happiness
-Hungary,5.145,2016,Happiness
-Pakistan,5.132,2016,Happiness
-Lebanon,5.129,2016,Happiness
-Portugal,5.123,2016,Happiness
-Macedonia,5.121,2016,Happiness
-Vietnam,5.061,2016,Happiness
-Somaliland Region,5.057,2016,Happiness
-Tunisia,5.045,2016,Happiness
-Greece,5.033,2016,Happiness
-Tajikistan,4.996,2016,Happiness
-Mongolia,4.907,2016,Happiness
-Laos,4.876,2016,Happiness
-Nigeria,4.875,2016,Happiness
-Honduras,4.871,2016,Happiness
-Iran,4.813,2016,Happiness
-Zambia,4.795,2016,Happiness
-Nepal,4.793,2016,Happiness
-Palestinian Territories,4.754,2016,Happiness
-Albania,4.655,2016,Happiness
-Bangladesh,4.643,2016,Happiness
-Sierra Leone,4.635,2016,Happiness
-Iraq,4.575,2016,Happiness
-Namibia,4.574,2016,Happiness
-Cameroon,4.513,2016,Happiness
-Ethiopia,4.508,2016,Happiness
-South Africa,4.459,2016,Happiness
-Sri Lanka,4.415,2016,Happiness
-India,4.404,2016,Happiness
-Myanmar,4.395,2016,Happiness
-Egypt,4.362,2016,Happiness
-Armenia,4.36,2016,Happiness
-Kenya,4.356,2016,Happiness
-Ukraine,4.324,2016,Happiness
-Ghana,4.276,2016,Happiness
-Congo (Kinshasa),4.272,2016,Happiness
-Georgia,4.252,2016,Happiness
-Congo (Brazzaville),4.236,2016,Happiness
-Senegal,4.219,2016,Happiness
-Bulgaria,4.217,2016,Happiness
-Mauritania,4.201,2016,Happiness
-Zimbabwe,4.193,2016,Happiness
-Malawi,4.156,2016,Happiness
-Sudan,4.139,2016,Happiness
-Gabon,4.121,2016,Happiness
-Mali,4.073,2016,Happiness
-Haiti,4.028,2016,Happiness
-Botswana,3.974,2016,Happiness
-Comoros,3.956,2016,Happiness
-Ivory Coast,3.916,2016,Happiness
-Cambodia,3.907,2016,Happiness
-Angola,3.866,2016,Happiness
-Niger,3.856,2016,Happiness
-South Sudan,3.832,2016,Happiness
-Chad,3.763,2016,Happiness
-Burkina Faso,3.739,2016,Happiness
-Uganda,3.739,2016,Happiness
-Yemen,3.724,2016,Happiness
-Madagascar,3.695,2016,Happiness
-Tanzania,3.666,2016,Happiness
-Liberia,3.622,2016,Happiness
-Guinea,3.607,2016,Happiness
-Rwanda,3.515,2016,Happiness
-Benin,3.484,2016,Happiness
-Afghanistan,3.36,2016,Happiness
-Togo,3.303,2016,Happiness
-Syria,3.069,2016,Happiness
-Burundi,2.905,2016,Happiness
 Denmark,1.44178,2016,GDP
 Switzerland,1.52733,2016,GDP
 Iceland,1.42666,2016,GDP
@@ -1247,3 +623,627 @@ Afghanistan,0.38227,2016,GDP
 Togo,0.28123,2016,GDP
 Syria,0.74719,2016,GDP
 Burundi,0.06831,2016,GDP
+Finland,7.632,2018,Happiness Score
+Norway,7.594,2018,Happiness Score
+Denmark,7.555,2018,Happiness Score
+Iceland,7.495,2018,Happiness Score
+Switzerland,7.487,2018,Happiness Score
+Netherlands,7.441,2018,Happiness Score
+Canada,7.328,2018,Happiness Score
+New Zealand,7.324,2018,Happiness Score
+Sweden,7.314,2018,Happiness Score
+Australia,7.272,2018,Happiness Score
+United Kingdom,7.19,2018,Happiness Score
+Austria,7.139,2018,Happiness Score
+Costa Rica,7.072,2018,Happiness Score
+Ireland,6.977,2018,Happiness Score
+Germany,6.965,2018,Happiness Score
+Belgium,6.927,2018,Happiness Score
+Luxembourg,6.91,2018,Happiness Score
+United States of America,6.886,2018,Happiness Score
+Israel,6.814,2018,Happiness Score
+United Arab Emirates,6.774,2018,Happiness Score
+Czech Republic,6.711,2018,Happiness Score
+Malta,6.627,2018,Happiness Score
+France,6.489,2018,Happiness Score
+Mexico,6.488,2018,Happiness Score
+Chile,6.476,2018,Happiness Score
+Taiwan,6.441,2018,Happiness Score
+Panama,6.43,2018,Happiness Score
+Brazil,6.419,2018,Happiness Score
+Argentina,6.388,2018,Happiness Score
+Guatemala,6.382,2018,Happiness Score
+Uruguay,6.379,2018,Happiness Score
+Qatar,6.374,2018,Happiness Score
+Saudi Arabia,6.371,2018,Happiness Score
+Singapore,6.343,2018,Happiness Score
+Malaysia,6.322,2018,Happiness Score
+Spain,6.31,2018,Happiness Score
+Colombia,6.26,2018,Happiness Score
+Trinidad & Tobago,6.192,2018,Happiness Score
+Slovakia,6.173,2018,Happiness Score
+El Salvador,6.167,2018,Happiness Score
+Nicaragua,6.141,2018,Happiness Score
+Poland,6.123,2018,Happiness Score
+Bahrain,6.105,2018,Happiness Score
+Uzbekistan,6.096,2018,Happiness Score
+Kuwait,6.083,2018,Happiness Score
+Thailand,6.072,2018,Happiness Score
+Italy,6,2018,Happiness Score
+Ecuador,5.973,2018,Happiness Score
+Belize,5.956,2018,Happiness Score
+Lithuania,5.952,2018,Happiness Score
+Slovenia,5.948,2018,Happiness Score
+Romania,5.945,2018,Happiness Score
+Latvia,5.933,2018,Happiness Score
+Japan,5.915,2018,Happiness Score
+Mauritius,5.891,2018,Happiness Score
+Jamaica,5.89,2018,Happiness Score
+South Korea,5.875,2018,Happiness Score
+Northern Cyprus,5.835,2018,Happiness Score
+Russia,5.81,2018,Happiness Score
+Kazakhstan,5.79,2018,Happiness Score
+Cyprus,5.762,2018,Happiness Score
+Bolivia,5.752,2018,Happiness Score
+Estonia,5.739,2018,Happiness Score
+Paraguay,5.681,2018,Happiness Score
+Peru,5.663,2018,Happiness Score
+Kosovo,5.662,2018,Happiness Score
+Moldova,5.64,2018,Happiness Score
+Turkmenistan,5.636,2018,Happiness Score
+Hungary,5.62,2018,Happiness Score
+Libya,5.566,2018,Happiness Score
+Philippines,5.524,2018,Happiness Score
+Honduras,5.504,2018,Happiness Score
+Belarus,5.483,2018,Happiness Score
+Turkey,5.483,2018,Happiness Score
+Pakistan,5.472,2018,Happiness Score
+Hong Kong,5.43,2018,Happiness Score
+Portugal,5.41,2018,Happiness Score
+Serbia,5.398,2018,Happiness Score
+Greece,5.358,2018,Happiness Score
+Lebanon,5.358,2018,Happiness Score
+Montenegro,5.347,2018,Happiness Score
+Croatia,5.321,2018,Happiness Score
+Dominican Republic,5.302,2018,Happiness Score
+Algeria,5.295,2018,Happiness Score
+Morocco,5.254,2018,Happiness Score
+China,5.246,2018,Happiness Score
+Azerbaijan,5.201,2018,Happiness Score
+Tajikistan,5.199,2018,Happiness Score
+Macedonia,5.185,2018,Happiness Score
+Jordan,5.161,2018,Happiness Score
+Nigeria,5.155,2018,Happiness Score
+Kyrgyzstan,5.131,2018,Happiness Score
+Bosnia and Herzegovina,5.129,2018,Happiness Score
+Mongolia,5.125,2018,Happiness Score
+Vietnam,5.103,2018,Happiness Score
+Indonesia,5.093,2018,Happiness Score
+Bhutan,5.082,2018,Happiness Score
+Somalia,4.982,2018,Happiness Score
+Cameroon,4.975,2018,Happiness Score
+Bulgaria,4.933,2018,Happiness Score
+Nepal,4.88,2018,Happiness Score
+Venezuela,4.806,2018,Happiness Score
+Gabon,4.758,2018,Happiness Score
+Palestinian Territories,4.743,2018,Happiness Score
+South Africa,4.724,2018,Happiness Score
+Iran,4.707,2018,Happiness Score
+Ivory Coast,4.671,2018,Happiness Score
+Ghana,4.657,2018,Happiness Score
+Senegal,4.631,2018,Happiness Score
+Laos,4.623,2018,Happiness Score
+Tunisia,4.592,2018,Happiness Score
+Albania,4.586,2018,Happiness Score
+Sierra Leone,4.571,2018,Happiness Score
+Congo (Brazzaville),4.559,2018,Happiness Score
+Bangladesh,4.5,2018,Happiness Score
+Sri Lanka,4.471,2018,Happiness Score
+Iraq,4.456,2018,Happiness Score
+Mali,4.447,2018,Happiness Score
+Namibia,4.441,2018,Happiness Score
+Cambodia,4.433,2018,Happiness Score
+Burkina Faso,4.424,2018,Happiness Score
+Egypt,4.419,2018,Happiness Score
+Mozambique,4.417,2018,Happiness Score
+Kenya,4.41,2018,Happiness Score
+Zambia,4.377,2018,Happiness Score
+Mauritania,4.356,2018,Happiness Score
+Ethiopia,4.35,2018,Happiness Score
+Georgia,4.34,2018,Happiness Score
+Armenia,4.321,2018,Happiness Score
+Myanmar,4.308,2018,Happiness Score
+Chad,4.301,2018,Happiness Score
+Congo (Kinshasa),4.245,2018,Happiness Score
+India,4.19,2018,Happiness Score
+Niger,4.166,2018,Happiness Score
+Uganda,4.161,2018,Happiness Score
+Benin,4.141,2018,Happiness Score
+Sudan,4.139,2018,Happiness Score
+Ukraine,4.103,2018,Happiness Score
+Togo,3.999,2018,Happiness Score
+Guinea,3.964,2018,Happiness Score
+Lesotho,3.808,2018,Happiness Score
+Angola,3.795,2018,Happiness Score
+Madagascar,3.774,2018,Happiness Score
+Zimbabwe,3.692,2018,Happiness Score
+Afghanistan,3.632,2018,Happiness Score
+Botswana,3.59,2018,Happiness Score
+Malawi,3.587,2018,Happiness Score
+Haiti,3.582,2018,Happiness Score
+Liberia,3.495,2018,Happiness Score
+Syria,3.462,2018,Happiness Score
+Rwanda,3.408,2018,Happiness Score
+Yemen,3.355,2018,Happiness Score
+Tanzania,3.303,2018,Happiness Score
+South Sudan,3.254,2018,Happiness Score
+Central African Republic,3.083,2018,Happiness Score
+Burundi,2.905,2018,Happiness Score
+Norway,7.537000179,2017,Happiness Score
+Denmark,7.521999836,2017,Happiness Score
+Iceland,7.504000187,2017,Happiness Score
+Switzerland,7.493999958,2017,Happiness Score
+Finland,7.468999863,2017,Happiness Score
+Netherlands,7.376999855,2017,Happiness Score
+Canada,7.315999985,2017,Happiness Score
+New Zealand,7.31400013,2017,Happiness Score
+Sweden,7.28399992,2017,Happiness Score
+Australia,7.28399992,2017,Happiness Score
+Israel,7.212999821,2017,Happiness Score
+Costa Rica,7.078999996,2017,Happiness Score
+Austria,7.006000042,2017,Happiness Score
+United States,6.993000031,2017,Happiness Score
+Ireland,6.977000237,2017,Happiness Score
+Germany,6.951000214,2017,Happiness Score
+Belgium,6.890999794,2017,Happiness Score
+Luxembourg,6.862999916,2017,Happiness Score
+United Kingdom,6.714000225,2017,Happiness Score
+Chile,6.65199995,2017,Happiness Score
+United Arab Emirates,6.647999763,2017,Happiness Score
+Brazil,6.635000229,2017,Happiness Score
+Czech Republic,6.609000206,2017,Happiness Score
+Argentina,6.598999977,2017,Happiness Score
+Mexico,6.578000069,2017,Happiness Score
+Singapore,6.572000027,2017,Happiness Score
+Malta,6.52699995,2017,Happiness Score
+Uruguay,6.453999996,2017,Happiness Score
+Guatemala,6.453999996,2017,Happiness Score
+Panama,6.452000141,2017,Happiness Score
+France,6.441999912,2017,Happiness Score
+Thailand,6.423999786,2017,Happiness Score
+Taiwan Province of China,6.421999931,2017,Happiness Score
+Spain,6.402999878,2017,Happiness Score
+Qatar,6.375,2017,Happiness Score
+Colombia,6.356999874,2017,Happiness Score
+Saudi Arabia,6.343999863,2017,Happiness Score
+Trinidad and Tobago,6.168000221,2017,Happiness Score
+Kuwait,6.105000019,2017,Happiness Score
+Slovakia,6.09800005,2017,Happiness Score
+Bahrain,6.086999893,2017,Happiness Score
+Malaysia,6.084000111,2017,Happiness Score
+Nicaragua,6.071000099,2017,Happiness Score
+Ecuador,6.007999897,2017,Happiness Score
+El Salvador,6.002999783,2017,Happiness Score
+Poland,5.97300005,2017,Happiness Score
+Uzbekistan,5.971000195,2017,Happiness Score
+Italy,5.964000225,2017,Happiness Score
+Russia,5.962999821,2017,Happiness Score
+Belize,5.955999851,2017,Happiness Score
+Japan,5.920000076,2017,Happiness Score
+Lithuania,5.90199995,2017,Happiness Score
+Algeria,5.872000217,2017,Happiness Score
+Latvia,5.849999905,2017,Happiness Score
+South Korea,5.837999821,2017,Happiness Score
+Moldova,5.837999821,2017,Happiness Score
+Romania,5.824999809,2017,Happiness Score
+Bolivia,5.822999954,2017,Happiness Score
+Turkmenistan,5.822000027,2017,Happiness Score
+Kazakhstan,5.818999767,2017,Happiness Score
+North Cyprus,5.809999943,2017,Happiness Score
+Slovenia,5.757999897,2017,Happiness Score
+Peru,5.715000153,2017,Happiness Score
+Mauritius,5.629000187,2017,Happiness Score
+Cyprus,5.620999813,2017,Happiness Score
+Estonia,5.611000061,2017,Happiness Score
+Belarus,5.568999767,2017,Happiness Score
+Libya,5.525000095,2017,Happiness Score
+Turkey,5.5,2017,Happiness Score
+Paraguay,5.493000031,2017,Happiness Score
+"Hong Kong S.A.R., China",5.472000122,2017,Happiness Score
+Philippines,5.429999828,2017,Happiness Score
+Serbia,5.394999981,2017,Happiness Score
+Jordan,5.335999966,2017,Happiness Score
+Hungary,5.323999882,2017,Happiness Score
+Jamaica,5.31099987,2017,Happiness Score
+Croatia,5.293000221,2017,Happiness Score
+Kosovo,5.278999805,2017,Happiness Score
+China,5.272999763,2017,Happiness Score
+Pakistan,5.269000053,2017,Happiness Score
+Indonesia,5.262000084,2017,Happiness Score
+Venezuela,5.25,2017,Happiness Score
+Montenegro,5.236999989,2017,Happiness Score
+Morocco,5.235000134,2017,Happiness Score
+Azerbaijan,5.234000206,2017,Happiness Score
+Dominican Republic,5.230000019,2017,Happiness Score
+Greece,5.227000237,2017,Happiness Score
+Lebanon,5.224999905,2017,Happiness Score
+Portugal,5.195000172,2017,Happiness Score
+Bosnia and Herzegovina,5.18200016,2017,Happiness Score
+Honduras,5.181000233,2017,Happiness Score
+Macedonia,5.175000191,2017,Happiness Score
+Somalia,5.151000023,2017,Happiness Score
+Vietnam,5.073999882,2017,Happiness Score
+Nigeria,5.073999882,2017,Happiness Score
+Tajikistan,5.040999889,2017,Happiness Score
+Bhutan,5.011000156,2017,Happiness Score
+Kyrgyzstan,5.004000187,2017,Happiness Score
+Nepal,4.961999893,2017,Happiness Score
+Mongolia,4.954999924,2017,Happiness Score
+South Africa,4.828999996,2017,Happiness Score
+Tunisia,4.804999828,2017,Happiness Score
+Palestinian Territories,4.775000095,2017,Happiness Score
+Egypt,4.735000134,2017,Happiness Score
+Bulgaria,4.714000225,2017,Happiness Score
+Sierra Leone,4.709000111,2017,Happiness Score
+Cameroon,4.695000172,2017,Happiness Score
+Iran,4.691999912,2017,Happiness Score
+Albania,4.644000053,2017,Happiness Score
+Bangladesh,4.607999802,2017,Happiness Score
+Namibia,4.573999882,2017,Happiness Score
+Kenya,4.552999973,2017,Happiness Score
+Mozambique,4.550000191,2017,Happiness Score
+Myanmar,4.545000076,2017,Happiness Score
+Senegal,4.534999847,2017,Happiness Score
+Zambia,4.513999939,2017,Happiness Score
+Iraq,4.497000217,2017,Happiness Score
+Gabon,4.465000153,2017,Happiness Score
+Ethiopia,4.460000038,2017,Happiness Score
+Sri Lanka,4.440000057,2017,Happiness Score
+Armenia,4.375999928,2017,Happiness Score
+India,4.315000057,2017,Happiness Score
+Mauritania,4.291999817,2017,Happiness Score
+Congo (Brazzaville),4.290999889,2017,Happiness Score
+Georgia,4.285999775,2017,Happiness Score
+Congo (Kinshasa),4.28000021,2017,Happiness Score
+Mali,4.190000057,2017,Happiness Score
+Ivory Coast,4.179999828,2017,Happiness Score
+Cambodia,4.168000221,2017,Happiness Score
+Sudan,4.138999939,2017,Happiness Score
+Ghana,4.119999886,2017,Happiness Score
+Ukraine,4.096000195,2017,Happiness Score
+Uganda,4.080999851,2017,Happiness Score
+Burkina Faso,4.032000065,2017,Happiness Score
+Niger,4.027999878,2017,Happiness Score
+Malawi,3.970000029,2017,Happiness Score
+Chad,3.936000109,2017,Happiness Score
+Zimbabwe,3.875,2017,Happiness Score
+Lesotho,3.808000088,2017,Happiness Score
+Angola,3.795000076,2017,Happiness Score
+Afghanistan,3.79399991,2017,Happiness Score
+Botswana,3.766000032,2017,Happiness Score
+Benin,3.657000065,2017,Happiness Score
+Madagascar,3.644000053,2017,Happiness Score
+Haiti,3.602999926,2017,Happiness Score
+Yemen,3.592999935,2017,Happiness Score
+South Sudan,3.59100008,2017,Happiness Score
+Liberia,3.532999992,2017,Happiness Score
+Guinea,3.506999969,2017,Happiness Score
+Togo,3.494999886,2017,Happiness Score
+Rwanda,3.470999956,2017,Happiness Score
+Syria,3.461999893,2017,Happiness Score
+Tanzania,3.348999977,2017,Happiness Score
+Burundi,2.904999971,2017,Happiness Score
+Central African Republic,2.693000078,2017,Happiness Score
+Denmark,7.526,2016,Happiness Score
+Switzerland,7.509,2016,Happiness Score
+Iceland,7.501,2016,Happiness Score
+Norway,7.498,2016,Happiness Score
+Finland,7.413,2016,Happiness Score
+Canada,7.404,2016,Happiness Score
+Netherlands,7.339,2016,Happiness Score
+New Zealand,7.334,2016,Happiness Score
+Australia,7.313,2016,Happiness Score
+Sweden,7.291,2016,Happiness Score
+Israel,7.267,2016,Happiness Score
+Austria,7.119,2016,Happiness Score
+United States,7.104,2016,Happiness Score
+Costa Rica,7.087,2016,Happiness Score
+Puerto Rico,7.039,2016,Happiness Score
+Germany,6.994,2016,Happiness Score
+Brazil,6.952,2016,Happiness Score
+Belgium,6.929,2016,Happiness Score
+Ireland,6.907,2016,Happiness Score
+Luxembourg,6.871,2016,Happiness Score
+Mexico,6.778,2016,Happiness Score
+Singapore,6.739,2016,Happiness Score
+United Kingdom,6.725,2016,Happiness Score
+Chile,6.705,2016,Happiness Score
+Panama,6.701,2016,Happiness Score
+Argentina,6.65,2016,Happiness Score
+Czech Republic,6.596,2016,Happiness Score
+United Arab Emirates,6.573,2016,Happiness Score
+Uruguay,6.545,2016,Happiness Score
+Malta,6.488,2016,Happiness Score
+Colombia,6.481,2016,Happiness Score
+France,6.478,2016,Happiness Score
+Thailand,6.474,2016,Happiness Score
+Saudi Arabia,6.379,2016,Happiness Score
+Taiwan,6.379,2016,Happiness Score
+Qatar,6.375,2016,Happiness Score
+Spain,6.361,2016,Happiness Score
+Algeria,6.355,2016,Happiness Score
+Guatemala,6.324,2016,Happiness Score
+Suriname,6.269,2016,Happiness Score
+Kuwait,6.239,2016,Happiness Score
+Bahrain,6.218,2016,Happiness Score
+Trinidad and Tobago,6.168,2016,Happiness Score
+Venezuela,6.084,2016,Happiness Score
+Slovakia,6.078,2016,Happiness Score
+El Salvador,6.068,2016,Happiness Score
+Malaysia,6.005,2016,Happiness Score
+Nicaragua,5.992,2016,Happiness Score
+Uzbekistan,5.987,2016,Happiness Score
+Italy,5.977,2016,Happiness Score
+Ecuador,5.976,2016,Happiness Score
+Belize,5.956,2016,Happiness Score
+Japan,5.921,2016,Happiness Score
+Kazakhstan,5.919,2016,Happiness Score
+Moldova,5.897,2016,Happiness Score
+Russia,5.856,2016,Happiness Score
+Poland,5.835,2016,Happiness Score
+South Korea,5.835,2016,Happiness Score
+Bolivia,5.822,2016,Happiness Score
+Lithuania,5.813,2016,Happiness Score
+Belarus,5.802,2016,Happiness Score
+North Cyprus,5.771,2016,Happiness Score
+Slovenia,5.768,2016,Happiness Score
+Peru,5.743,2016,Happiness Score
+Turkmenistan,5.658,2016,Happiness Score
+Mauritius,5.648,2016,Happiness Score
+Libya,5.615,2016,Happiness Score
+Latvia,5.56,2016,Happiness Score
+Cyprus,5.546,2016,Happiness Score
+Paraguay,5.538,2016,Happiness Score
+Romania,5.528,2016,Happiness Score
+Estonia,5.517,2016,Happiness Score
+Jamaica,5.51,2016,Happiness Score
+Croatia,5.488,2016,Happiness Score
+Hong Kong,5.458,2016,Happiness Score
+Somalia,5.44,2016,Happiness Score
+Kosovo,5.401,2016,Happiness Score
+Turkey,5.389,2016,Happiness Score
+Indonesia,5.314,2016,Happiness Score
+Jordan,5.303,2016,Happiness Score
+Azerbaijan,5.291,2016,Happiness Score
+Philippines,5.279,2016,Happiness Score
+China,5.245,2016,Happiness Score
+Bhutan,5.196,2016,Happiness Score
+Kyrgyzstan,5.185,2016,Happiness Score
+Serbia,5.177,2016,Happiness Score
+Bosnia and Herzegovina,5.163,2016,Happiness Score
+Montenegro,5.161,2016,Happiness Score
+Dominican Republic,5.155,2016,Happiness Score
+Morocco,5.151,2016,Happiness Score
+Hungary,5.145,2016,Happiness Score
+Pakistan,5.132,2016,Happiness Score
+Lebanon,5.129,2016,Happiness Score
+Portugal,5.123,2016,Happiness Score
+Macedonia,5.121,2016,Happiness Score
+Vietnam,5.061,2016,Happiness Score
+Somaliland Region,5.057,2016,Happiness Score
+Tunisia,5.045,2016,Happiness Score
+Greece,5.033,2016,Happiness Score
+Tajikistan,4.996,2016,Happiness Score
+Mongolia,4.907,2016,Happiness Score
+Laos,4.876,2016,Happiness Score
+Nigeria,4.875,2016,Happiness Score
+Honduras,4.871,2016,Happiness Score
+Iran,4.813,2016,Happiness Score
+Zambia,4.795,2016,Happiness Score
+Nepal,4.793,2016,Happiness Score
+Palestinian Territories,4.754,2016,Happiness Score
+Albania,4.655,2016,Happiness Score
+Bangladesh,4.643,2016,Happiness Score
+Sierra Leone,4.635,2016,Happiness Score
+Iraq,4.575,2016,Happiness Score
+Namibia,4.574,2016,Happiness Score
+Cameroon,4.513,2016,Happiness Score
+Ethiopia,4.508,2016,Happiness Score
+South Africa,4.459,2016,Happiness Score
+Sri Lanka,4.415,2016,Happiness Score
+India,4.404,2016,Happiness Score
+Myanmar,4.395,2016,Happiness Score
+Egypt,4.362,2016,Happiness Score
+Armenia,4.36,2016,Happiness Score
+Kenya,4.356,2016,Happiness Score
+Ukraine,4.324,2016,Happiness Score
+Ghana,4.276,2016,Happiness Score
+Congo (Kinshasa),4.272,2016,Happiness Score
+Georgia,4.252,2016,Happiness Score
+Congo (Brazzaville),4.236,2016,Happiness Score
+Senegal,4.219,2016,Happiness Score
+Bulgaria,4.217,2016,Happiness Score
+Mauritania,4.201,2016,Happiness Score
+Zimbabwe,4.193,2016,Happiness Score
+Malawi,4.156,2016,Happiness Score
+Sudan,4.139,2016,Happiness Score
+Gabon,4.121,2016,Happiness Score
+Mali,4.073,2016,Happiness Score
+Haiti,4.028,2016,Happiness Score
+Botswana,3.974,2016,Happiness Score
+Comoros,3.956,2016,Happiness Score
+Ivory Coast,3.916,2016,Happiness Score
+Cambodia,3.907,2016,Happiness Score
+Angola,3.866,2016,Happiness Score
+Niger,3.856,2016,Happiness Score
+South Sudan,3.832,2016,Happiness Score
+Chad,3.763,2016,Happiness Score
+Burkina Faso,3.739,2016,Happiness Score
+Uganda,3.739,2016,Happiness Score
+Yemen,3.724,2016,Happiness Score
+Madagascar,3.695,2016,Happiness Score
+Tanzania,3.666,2016,Happiness Score
+Liberia,3.622,2016,Happiness Score
+Guinea,3.607,2016,Happiness Score
+Rwanda,3.515,2016,Happiness Score
+Benin,3.484,2016,Happiness Score
+Afghanistan,3.36,2016,Happiness Score
+Togo,3.303,2016,Happiness Score
+Syria,3.069,2016,Happiness Score
+Burundi,2.905,2016,Happiness Score
+Somalia,4.668,2019,Happiness Score
+Central African Republic,3.083,2019,Happiness Score
+Burundi,3.775,2019,Happiness Score
+Liberia,3.975,2019,Happiness Score
+Congo (Kinshasa),4.418,2019,Happiness Score
+Niger,4.628,2019,Happiness Score
+Malawi,3.41,2019,Happiness Score
+Mozambique,4.466,2019,Happiness Score
+Sierra Leone,4.374,2019,Happiness Score
+Comoros,3.973,2019,Happiness Score
+Madagascar,3.933,2019,Happiness Score
+Togo,4.085,2019,Happiness Score
+Yemen,3.38,2019,Happiness Score
+South Sudan,2.853,2019,Happiness Score
+Gambia,4.516,2019,Happiness Score
+Haiti,3.597,2019,Happiness Score
+Burkina Faso,4.587,2019,Happiness Score
+Uganda,4.189,2019,Happiness Score
+Ethiopia,4.286,2019,Happiness Score
+Chad,4.35,2019,Happiness Score
+Afghanistan,3.203,2019,Happiness Score
+Rwanda,3.334,2019,Happiness Score
+Zimbabwe,3.663,2019,Happiness Score
+Guinea,4.534,2019,Happiness Score
+Mali,4.39,2019,Happiness Score
+Benin,4.883,2019,Happiness Score
+Nepal,4.913,2019,Happiness Score
+Senegal,4.681,2019,Happiness Score
+Tanzania,3.231,2019,Happiness Score
+Lesotho,3.802,2019,Happiness Score
+Tajikistan,5.467,2019,Happiness Score
+Kenya,4.509,2019,Happiness Score
+Cameroon,5.044,2019,Happiness Score
+Kyrgyzstan,5.261,2019,Happiness Score
+Bangladesh,4.456,2019,Happiness Score
+Ivory Coast,4.944,2019,Happiness Score
+Mauritania,4.49,2019,Happiness Score
+Cambodia,4.7,2019,Happiness Score
+Zambia,4.107,2019,Happiness Score
+Ghana,4.996,2019,Happiness Score
+Syria,3.462,2019,Happiness Score
+Honduras,5.86,2019,Happiness Score
+Palestinian Territories,4.696,2019,Happiness Score
+Congo (Brazzaville),4.812,2019,Happiness Score
+Pakistan,5.653,2019,Happiness Score
+Moldova,5.529,2019,Happiness Score
+Nicaragua,6.105,2019,Happiness Score
+Nigeria,5.265,2019,Happiness Score
+Myanmar,4.36,2019,Happiness Score
+Vietnam,5.175,2019,Happiness Score
+Uzbekistan,6.174,2019,Happiness Score
+India,4.015,2019,Happiness Score
+Laos,4.796,2019,Happiness Score
+Bolivia,5.779,2019,Happiness Score
+El Salvador,6.253,2019,Happiness Score
+Guatemala,6.436,2019,Happiness Score
+Morocco,5.208,2019,Happiness Score
+Philippines,5.631,2019,Happiness Score
+Swaziland,4.212,2019,Happiness Score
+Bhutan,5.082,2019,Happiness Score
+Ukraine,4.332,2019,Happiness Score
+Jamaica,5.89,2019,Happiness Score
+Jordan,4.906,2019,Happiness Score
+Armenia,4.559,2019,Happiness Score
+Paraguay,5.743,2019,Happiness Score
+Namibia,4.639,2019,Happiness Score
+Kosovo,6.1,2019,Happiness Score
+Georgia,4.519,2019,Happiness Score
+Ecuador,6.028,2019,Happiness Score
+Egypt,4.166,2019,Happiness Score
+Tunisia,4.461,2019,Happiness Score
+Indonesia,5.192,2019,Happiness Score
+Bosnia and Herzegovina,5.386,2019,Happiness Score
+Albania,4.719,2019,Happiness Score
+Mongolia,5.285,2019,Happiness Score
+Sri Lanka,4.366,2019,Happiness Score
+Peru,5.697,2019,Happiness Score
+South Africa,4.722,2019,Happiness Score
+Venezuela,4.707,2019,Happiness Score
+North Macedonia,5.274,2019,Happiness Score
+Colombia,6.125,2019,Happiness Score
+Lebanon,5.197,2019,Happiness Score
+Algeria,5.211,2019,Happiness Score
+Brazil,6.3,2019,Happiness Score
+Serbia,5.603,2019,Happiness Score
+Dominican Republic,5.425,2019,Happiness Score
+China,5.191,2019,Happiness Score
+Costa Rica,7.167,2019,Happiness Score
+Botswana,3.488,2019,Happiness Score
+Azerbaijan,5.208,2019,Happiness Score
+Iraq,4.437,2019,Happiness Score
+Libya,5.525,2019,Happiness Score
+Thailand,6.008,2019,Happiness Score
+Montenegro,5.523,2019,Happiness Score
+Turkmenistan,5.247,2019,Happiness Score
+Gabon,4.799,2019,Happiness Score
+Belarus,5.323,2019,Happiness Score
+Mexico,6.595,2019,Happiness Score
+Argentina,6.086,2019,Happiness Score
+Bulgaria,5.011,2019,Happiness Score
+Iran,4.548,2019,Happiness Score
+Mauritius,5.888,2019,Happiness Score
+Uruguay,6.293,2019,Happiness Score
+Panama,6.321,2019,Happiness Score
+Croatia,5.432,2019,Happiness Score
+Chile,6.444,2019,Happiness Score
+Romania,6.07,2019,Happiness Score
+Kazakhstan,5.809,2019,Happiness Score
+Greece,5.287,2019,Happiness Score
+Russia,5.648,2019,Happiness Score
+Turkey,5.373,2019,Happiness Score
+Latvia,5.94,2019,Happiness Score
+Hungary,5.758,2019,Happiness Score
+Poland,6.182,2019,Happiness Score
+Portugal,5.693,2019,Happiness Score
+Malaysia,5.339,2019,Happiness Score
+Trinidad & Tobago,6.192,2019,Happiness Score
+Estonia,5.893,2019,Happiness Score
+Lithuania,6.149,2019,Happiness Score
+Slovakia,6.198,2019,Happiness Score
+Slovenia,6.118,2019,Happiness Score
+Cyprus,6.046,2019,Happiness Score
+Northern Cyprus,5.718,2019,Happiness Score
+Czech Republic,6.852,2019,Happiness Score
+Israel,7.139,2019,Happiness Score
+Spain,6.354,2019,Happiness Score
+Italy,6.223,2019,Happiness Score
+Malta,6.726,2019,Happiness Score
+South Korea,5.895,2019,Happiness Score
+New Zealand,7.307,2019,Happiness Score
+France,6.592,2019,Happiness Score
+Japan,5.886,2019,Happiness Score
+United Kingdom,7.054,2019,Happiness Score
+Finland,7.769,2019,Happiness Score
+Belgium,6.923,2019,Happiness Score
+Bahrain,6.199,2019,Happiness Score
+Canada,7.278,2019,Happiness Score
+Taiwan,6.446,2019,Happiness Score
+Australia,7.228,2019,Happiness Score
+Germany,6.985,2019,Happiness Score
+Austria,7.246,2019,Happiness Score
+Iceland,7.494,2019,Happiness Score
+Denmark,7.6,2019,Happiness Score
+Sweden,7.343,2019,Happiness Score
+Netherlands,7.488,2019,Happiness Score
+Saudi Arabia,6.375,2019,Happiness Score
+United States of America,6.892,2019,Happiness Score
+Hong Kong,5.43,2019,Happiness Score
+Switzerland,7.48,2019,Happiness Score
+Norway,7.554,2019,Happiness Score
+Ireland,7.021,2019,Happiness Score
+Kuwait,6.021,2019,Happiness Score
+United Arab Emirates,6.825,2019,Happiness Score
+Singapore,6.262,2019,Happiness Score
+Luxembourg,7.09,2019,Happiness Score
+Qatar,6.374,2019,Happiness Score

@@ -38,11 +38,6 @@
                 "name":"Life expectancy up to: "
             }
         },
-        {
-            "name": "grid",
-            "bind": "scales",
-            "select": {"type": "interval"}
-          },
 
           
         {
@@ -104,19 +99,14 @@
                 "title": "GDP"
                 },
             "size": {
-                "field":"Healthy life expectancy",
-                "type":"quantitative",
-                "scale":{
-                    "type":"point",
-                    "domain":[0.1,0.5,0.9,1.3]
-                }
+                "value":200
             },
             "color": {
-                "field": "GDP per capita",
+                "field": "Healthy life expectancy",
                 "type": "quantitative"
                 },
             "tooltip": [
-                {"field": "Country or Region", "type": "nominal","title":"Country"},
+                {"field": "Country", "type": "nominal","title":"Country"},
                 {"field": "GDP per capita", "type": "quantitative", "title":"GDP"},
                 {"field": "Healthy life expectancy", "type": "quantitative", "title":"Life Expectancy"},
                 {"field": "Score", "type": "quantitative", "title":"Happiness Score"}
